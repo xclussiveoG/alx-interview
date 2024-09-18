@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-"""Making change."""
+"""Making change interview challenge."""
 
 
 def makeChange(coins, total):
